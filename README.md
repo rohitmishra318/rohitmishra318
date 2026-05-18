@@ -1,15 +1,23 @@
-<h1 align="center">Hi there, I'm Rohit Mishra 👋</h1>
-<h3 align="center">Computer Science Undergrad @ IIIT Gwalior | MERN & Python Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hey there! I'm Rohit Mishra 👋</h1>
+<h3 align="center">Computer Science Undergrad @ ABV-IIITM Gwalior | MERN & Python Stack Developer | AI Enthusiast</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Seamless Coding Animation"/>
+</div>
 
 <br/>
 
-## 💫 About Me
+## 👋 About Me
 
-I am a Computer Science Undergraduate (Class of 2027) passionate about building scalable web applications and exploring the intersections of robust Web Development, **Trustworthy Artificial Intelligence (TAI)**, and Computer Vision. I enjoy tackling complex architectural problems, deploying efficient microservices, and optimizing backend systems.
-
-- 🌱 Currently exploring advanced concepts in **Deep Learning (NLP/CV)** and modern **Cloud Architecture**.
-- 💡 Actively preparing for global open-source programs like **GSoC** and the **LFX Mentorship**.
-- 🤝 Always open to collaborating on high-impact Full-Stack applications and research-centric AI platforms.
+```javascript
+const rohit = {
+    location: "Ghaziabad, Uttar Pradesh, India",
+    education: "B.Tech in CS @ ABV-IIITM Gwalior",
+    currentRole: "Web Developer Intern @ AlgoVexa",
+    openSource: "Preparing for GSoC '26 & LFX Mentorship",
+    interests: ["MERN Stack", "Trustworthy AI (TAI)", "Cloud Architecture", "System Design"]
+};
+```
 
 ---
 
@@ -50,8 +58,8 @@ I am a Computer Science Undergraduate (Class of 2027) passionate about building 
 * **Web Developer Intern @ AlgoVexa** *(Sep 2025 - Dec 2025)*
     Focused on integrating and optimizing AI-powered facial analysis tools within a web ecosystem.
 * **Competitive Programming**
-    * **LeetCode:** Solved 300+ problems (Peak Rating: 1650)
-    * **Codeforces:** Consistent participant (Peak Rating: 1200)
+    * **LeetCode:** Solved 400+ problems (Peak Rating: 1650)
+    * **Codeforces:** Consistent participant (Peak Rating: 1285)
 
 ---
 
