@@ -59,7 +59,7 @@ const rohit = {
     Focused on integrating and optimizing AI-powered facial analysis tools within a web ecosystem.
 * **Competitive Programming**
     * **LeetCode:** Solved 400+ problems (Peak Rating: 1650)
-    * **Codeforces:** Consistent participant (Peak Rating: 1285)
+    * **Codeforces:** Consistent participant (Peak Rating: 1386)
 
 ---
 
